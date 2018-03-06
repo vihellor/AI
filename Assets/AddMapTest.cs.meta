@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 323d67b996117794a96ac19968f0328b
+timeCreated: 1519796821
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - acidicFloor: {fileID: 11400000, guid: 5c905d32ba2b1734baebf004e0740e42, type: 2}
+  - cobbleBlood: {fileID: 11400000, guid: 463cea4cbd054ea4aad132274934e3b8, type: 2}
+  - floorNerves: {fileID: 11400000, guid: 5fd2435ebe6028c40bf2c29a1e38e425, type: 2}
+  - floorVines: {fileID: 11400000, guid: b003cbda33a5ba0408ca41e45708ba75, type: 2}
+  - frozen: {fileID: 11400000, guid: a237745c7fe13d24b972fcbd8eb3cd06, type: 2}
+  - grass: {fileID: 11400000, guid: 19aa944ed0a9353479335a6dcfd4c22f, type: 2}
+  - dirt: {fileID: 11400000, guid: c0d9caaf9bba09f48a0ccedba19b2e4b, type: 2}
+  - greenBones: {fileID: 11400000, guid: fb7ba94400f28b8449651def8f595254, type: 2}
+  - limestone: {fileID: 11400000, guid: 33a7e9dd7678a874ea4bed752db51101, type: 2}
+  - mesh: {fileID: 11400000, guid: a5273326a2026ae4e9f9ce8ded8a1dbd, type: 2}
+  - sand: {fileID: 11400000, guid: 558e6e8f82e1195429c7e7d17dd74168, type: 2}
+  - whiteMarble: {fileID: 11400000, guid: dc32e1267e94ceb4987007ec3a9fd11a, type: 2}
+  - prueba: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
