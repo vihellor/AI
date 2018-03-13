@@ -30,6 +30,7 @@ public class Add : MonoBehaviour {
                     print("en "+i+","+j+"0");
                     //GameObject TilePrefab  = Instantiate(Bricks, new Vector3(j - mapWidth, mapHeight - i, 1), Quaternion.identity) as GameObject;
                     //TilePrefab.transform.parent = GameObject.FindGameObjectWithTag("Room").transform;
+					/*Esto es una prueba*/
                 }
                 else
                 if (tiles[i, j] == 1)
